@@ -23,3 +23,6 @@
 auto/EGL-Registry
 auto/OpenGL-Registry
 auto/glfixes
+
+#ignore this file
+/lib/libGLEW.a
